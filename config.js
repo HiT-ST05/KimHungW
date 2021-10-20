@@ -12,7 +12,7 @@ const CONFIG = {
     btnNo: 'Xấu Quỷ Tha Ma Bắt',
     question: 'u là trời, ngại ghê vậy đó😏',
     btnReply: 'Gửi😘',
-    reply: 'Hưng vừa đẹp trai vừa tài giỏi, Hưng 10 điểm Hưng số 1.   ',
+    reply: 'Hưng là số 1.   ',
     mess: 'Hii xincamon',
     messDesc: 'Nói Chuyện Một Chút Hongg',
     btnAccept: '❤️..OK..😍',
